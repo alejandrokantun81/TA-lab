@@ -1,7 +1,4 @@
-# Architecture Blueprint: Agent and Technological Infrastructure
-
-**Phase:** 2 of 6 (Spec-Driven AI)  
-**Governing Document:** `constitution.md`  
+# Architecture
 
 ## 1. Architectural Intent and Scope
 
